@@ -1,13 +1,13 @@
 {
   "main.css": "/movie-surf/static/css/main.f39ae108.chunk.css",
-  "main.js": "/movie-surf/static/js/main.93795b19.chunk.js",
-  "main.js.map": "/movie-surf/static/js/main.93795b19.chunk.js.map",
+  "main.js": "/movie-surf/static/js/main.29afcf65.chunk.js",
+  "main.js.map": "/movie-surf/static/js/main.29afcf65.chunk.js.map",
   "static/js/1.13548fab.chunk.js": "/movie-surf/static/js/1.13548fab.chunk.js",
   "static/js/1.13548fab.chunk.js.map": "/movie-surf/static/js/1.13548fab.chunk.js.map",
   "runtime~main.js": "/movie-surf/static/js/runtime~main.9464e054.js",
   "runtime~main.js.map": "/movie-surf/static/js/runtime~main.9464e054.js.map",
   "static/css/main.f39ae108.chunk.css.map": "/movie-surf/static/css/main.f39ae108.chunk.css.map",
   "index.html": "/movie-surf/index.html",
-  "precache-manifest.1dd812b16026efec50165e7d1bb64829.js": "/movie-surf/precache-manifest.1dd812b16026efec50165e7d1bb64829.js",
+  "precache-manifest.4c35a0e532a8b4ffe20b4c83085fa0eb.js": "/movie-surf/precache-manifest.4c35a0e532a8b4ffe20b4c83085fa0eb.js",
   "service-worker.js": "/movie-surf/service-worker.js"
 }
