@@ -1,0 +1,29 @@
+/*footer style*/
+  
+footer{
+    margin: 50px;
+    font-family: 'Abel', sans-serif;
+    color: #f1f1f1;
+    font-size: 0.8em;
+  }
+  
+  
+  .footer{
+    display: flex;
+    padding: 5px;
+  }
+  
+  .footer-info{
+    margin-right: auto;
+    text-align: left;
+  }
+  
+  .footer-logo{
+    width: 20%;
+  }
+  
+  .footer-logo>a>img{
+    width: 100%;
+  }
+  
+  /*footer style end*/
