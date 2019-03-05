@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/movie-surf/static/js/runtime~main.9464e054.js"
   },
   {
-    "revision": "3610aa09b62ec7c156c5",
-    "url": "/movie-surf/static/js/main.3610aa09.chunk.js"
+    "revision": "499e6c5b1baf6dc2ba33",
+    "url": "/movie-surf/static/js/main.499e6c5b.chunk.js"
   },
   {
     "revision": "13548fab87af0e09b469",
     "url": "/movie-surf/static/js/1.13548fab.chunk.js"
   },
   {
-    "revision": "3610aa09b62ec7c156c5",
+    "revision": "499e6c5b1baf6dc2ba33",
     "url": "/movie-surf/static/css/main.f39ae108.chunk.css"
   },
   {
-    "revision": "c3e1d77e637490670be07e617c45ddf8",
+    "revision": "f092821cf289408c224fc6823b9b325f",
     "url": "/movie-surf/index.html"
   }
 ];
